@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/s-m33r/abyss/main/Screenshot%20from%202023-08-26%2015-15-56.png)  
+![screenshot](https://raw.githubusercontent.com/s-m33r/abyss/main/Screenshot%20from%202023-08-26%2017-54-56.png)  
 
 # Abyss
 An endless game about a robot exploring an abyss. Collect the fuel dots to stay alive. Each one gives you 20 moves!  
