@@ -1,7 +1,7 @@
 -- title:  Abyss
 -- author:  Sameer Srivastava (github.com/s-m33r)
 -- desc:    an endless game about a robot exploring an abyss
--- license: MIT License (change this to your license of choice)
+-- license: WTFPL
 -- version: 0.01
 -- script:  lua
 
